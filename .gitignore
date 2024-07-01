@@ -1,0 +1,17 @@
+# Node modules directory
+node_modules
+
+# VS Code settings directory
+.vscode/
+
+# macOS Finder directory attribute files
+.DS_Store
+
+# Log files
+server-logs.txt
+request_logs.txt
+access.log
+server-logs
+
+# Environment variables file
+.env
