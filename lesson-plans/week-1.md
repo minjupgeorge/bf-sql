@@ -6,5 +6,5 @@
 
 ## Projects
 
-- [Cat API](https://github.com/samirm00/express-mysql-template)
-- [Car API](https://github.com/samirm00/express-mysql-template)
+- [Cat API](https://github.com/HackYourFutureBelgium/bf-back-end-template)
+- [Car API](https://github.com/HackYourFutureBelgium/bf-back-end-template)

@@ -4,5 +4,5 @@
 
 ## Projects
 
-- [Book API](https://github.com/samirm00/express-mysql-template)
-- [Store API](https://github.com/samirm00/express-mysql-template)
+- [Book API](https://github.com/HackYourFutureBelgium/bf-back-end-template)
+- [Store API](https://github.com/HackYourFutureBelgium/bf-back-end-template)
