@@ -1,7 +1,7 @@
 # Week 1
 
 - [Install MySQL](../01-setup/README.md)
-- [SQL](../2-sql/README.md)
+- [SQL](../02-sql/README.md)
 - [MySQL](../03-my-sql/README.md)
 
 ## Projects
