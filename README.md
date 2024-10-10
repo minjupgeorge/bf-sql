@@ -8,6 +8,7 @@ In the world of data management and database systems, SQL (Structured Query Lang
   studying this material
 - [Suggested Study](./suggested-study.md): Helpful links for this module, useful
   but not required.
+setup /// to solve the error mysql is not recognised //https://www.youtube.com/watch?v=znbKvN0dCZU
 
 ## Learning Objectives
 
